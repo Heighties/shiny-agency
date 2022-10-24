@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import DefaultPicture from '../../assets/profile.png'
 import Card from '../../Components/Card'
 import colors from '../../utils/style/colors'
  
